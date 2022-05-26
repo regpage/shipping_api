@@ -1,0 +1,14 @@
+.regular-div {
+	padding: 5px;
+	margin: 5px;
+}
+.mark-div {
+	border: 2px solid green;	
+}
+.bold-text {
+	font-weight: bold;
+}
+.div-med {
+	max-height: 300px;
+	overflow-y: auto;
+}
