@@ -15,8 +15,8 @@ $fio = $_GET['fio'];
 
 
 if ($nf === '1') {
- $loglog = 'PhUOdFAsZwiQeO';
- $paspas = '5GRHRg4YW1e5';
+ $loglog = 'EaSMKNvZcUlzhD';
+ $paspas = 'AX68HXvQSPEs';
 } else if ($nf === '2') {
 	$loglog = 'mbRfEbqLavdAHl';
   $paspas = '0xO6oi0CbrVB';
@@ -27,8 +27,8 @@ if ($nf === '1') {
 	$loglog = 'gStclSWXPAayaf';
   $paspas = 'fBvDOdukiGQA';
 } else if ($nf === '5') {
-	$loglog = 'EaSMKNvZcUlzhD';
-  	$paspas = 'AX68HXvQSPEs';
+	$loglog = 'PhUOdFAsZwiQeO';
+  	$paspas = '5GRHRg4YW1e5';
 }
 
 $wsdlurl = 'https://tracking.russianpost.ru/rtm34?wsdl';
