@@ -41,7 +41,7 @@ class GetTN extends GetRemoteData {
     $offset = 0;
     // получаем данные из СРМ по 50 за цикл и складываем в переменную.
     for ($i=0; $i < 10; $i++) {
-        $link = 'https://bibleforall.envycrm.com/crm/api/v1/deal/list/?api_key=ecdfd3e079da4ab92942a50d8dd67991b5878f21';
+        $link = 'https://bibleforall.envycrm.com/crm/api/v1/deal/list/?api_key=';
         $curl = curl_init();
         $data = [
           'stage_id' => $stage, // Этап сделки, это условие отбора
