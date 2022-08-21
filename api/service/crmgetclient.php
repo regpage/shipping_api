@@ -14,7 +14,7 @@ $client = $_GET['client']*1;
 
 ## BEGIN
 
-$link = 'https://bibleforall.envycrm.com/crm/api/v1/client/get/?api_key=ecdfd3e079da4ab92942a50d8dd67991b5878f21';
+$link = 'https://bibleforall.envycrm.com/crm/api/v1/client/get/?api_key=';
 $curl = curl_init();
 
 $data = [
