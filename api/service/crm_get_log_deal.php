@@ -11,7 +11,7 @@ $offset = '0';
 
 ## BEGIN
 
-$link = 'https://bibleforall.envycrm.com/crm/api/v1/deal/log/list/?api_key=ecdfd3e079da4ab92942a50d8dd67991b5878f21&deal_id='.$deal.'&limit='.$limit.'&offset='.$offset;
+$link = 'https://bibleforall.envycrm.com/crm/api/v1/deal/log/list/?api_key=&deal_id='.$deal.'&limit='.$limit.'&offset='.$offset;
 $curl = curl_init();
 
 //curl_setopt($curl,CURLOPT_RETURNTRANSFER,true);
