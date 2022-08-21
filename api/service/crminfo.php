@@ -7,7 +7,7 @@ if (!isset($_GET['key'])) {
 //https://reg.new-constellation.ru/api/pr/crminfo.php?key
 ## BEGIN
 
-$link = 'https://bibleforall.envycrm.com/crm/api/v1/main/data/?api_key=ecdfd3e079da4ab92942a50d8dd67991b5878f21';
+$link = 'https://bibleforall.envycrm.com/crm/api/v1/main/data/?api_key=';
 $curl = curl_init();
 
 //$data = ["" => $];
