@@ -15,20 +15,20 @@ $fio = $_GET['fio'];
 
 
 if ($nf === '1') {
- $loglog = 'EaSMKNvZcUlzhD';
- $paspas = 'AX68HXvQSPEs';
+ $loglog = '';
+ $paspas = '';
 } else if ($nf === '2') {
-	$loglog = 'mbRfEbqLavdAHl';
-  $paspas = '0xO6oi0CbrVB';
+	$loglog = '';
+  $paspas = '';
 } else if ($nf === '3') {
-	$loglog = 'NFkDhMTdIRKEXl';
-  $paspas = 'nzjcSb6DLXX6';
+	$loglog = '';
+  $paspas = '';
 } else if ($nf === '4') {
-	$loglog = 'gStclSWXPAayaf';
-  $paspas = 'fBvDOdukiGQA';
+	$loglog = '';
+  $paspas = '';
 } else if ($nf === '5') {
-	$loglog = 'PhUOdFAsZwiQeO';
-  	$paspas = '5GRHRg4YW1e5';
+	$loglog = '';
+  	$paspas = '';
 }
 
 $wsdlurl = 'https://tracking.russianpost.ru/rtm34?wsdl';
